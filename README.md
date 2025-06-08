@@ -2,7 +2,7 @@
 
 ## An engineer who found a passion for programming and creating content
 
-- More about me on my personal website: [zaradarz.com](https://zaradarz.com)
+- More about me on my personal website: 
 
 ### About me:
 <!-- ABOUT-ME-LIST:START -->
