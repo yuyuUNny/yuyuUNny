@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Uny Li!😺
 
-<!--
-**yuyuUNny/yuyuUNny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## An engineer who found a passion for programming and creating content
 
-Here are some ideas to get you started:
+- More about me on my personal website: [zaradarz.com](https://zaradarz.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+<!-- ABOUT-ME-LIST:START -->
+- 👩‍💻 Aspiring developer with a passion for clean code and continuous learning.
+- 🌱 An open-minded explorer who finds inspiration in diverse cultures, ideas, and ways of life.
+- 📫 How to reach me: nzshiyu@gmail.com
+- 📍 Toronto, CA
+
+  <!-- ABOUT-ME-LIST:END -->
