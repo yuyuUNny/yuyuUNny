@@ -10,6 +10,6 @@
 - 👩‍💻 A curious mind who loves building things, solving problems, and making people smile.
 - 🌱 An open-minded explorer who finds inspiration in diverse cultures, ideas, and ways of life.
 - 📫 How to reach me: nzshiyu@gmail.com
-- 📍 Toronto, CA
+- 📍 Toronto, ON
 
   <!-- ABOUT-ME-LIST:END -->
